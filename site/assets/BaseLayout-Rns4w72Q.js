@@ -1,0 +1,1 @@
+import{F as e,G as t,M as n,S as r,b as i,g as a,x as o}from"./index-BllesAiB.js";import{t as s}from"./AppShell-CZyKiI8k.js";var c=r({__name:`BaseLayout`,setup(r){return(r,c)=>{let l=e(`RouterView`);return n(),a(s,null,{footer:t(()=>[...c[0]||=[i(`footer`,-1)]]),default:t(()=>[o(l)]),_:1})}}});export{c as default};

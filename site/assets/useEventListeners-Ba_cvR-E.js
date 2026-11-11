@@ -1,0 +1,1 @@
+import{q as e}from"./index-BllesAiB.js";var t=t=>{let n=[],r=()=>{for(let e of n)e();n=[]};return e(r),{start:()=>{r();for(let e of t())e.target&&(e.target.addEventListener(e.type,e.listener,e.options),n.push(()=>{e.target?.removeEventListener(e.type,e.listener,e.options)}))},stop:r}};export{t};

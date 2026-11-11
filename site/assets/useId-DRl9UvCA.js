@@ -1,0 +1,1 @@
+import{X as e}from"./index-BllesAiB.js";var t=e(0),n=(e=`el-`)=>`${e}${t.value++}`;export{n as t};
